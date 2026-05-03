@@ -1,4 +1,4 @@
-cd deploy-next
+cd deploy-test
 git pull origin main
 npm i 
 npm run build 
