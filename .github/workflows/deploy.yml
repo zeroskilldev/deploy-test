@@ -21,4 +21,4 @@ jobs:
           username: ubuntu
           key: ${{ secrets.SSH_SECRET_KEY }}
           port: 22
-          script_path: script.sh
+          script: script.sh
